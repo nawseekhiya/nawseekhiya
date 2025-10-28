@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=I'm%20Abhishek%20Mohanty&section=header&textBg=false&fontAlign=50&animation=fadeIn&fontSize=70&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=64&customColorList=16" alt="Capsule Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=I'm%20Abhishek%20Mohanty&section=header&textBg=false&fontAlign=50&animation=fadeIn&fontSize=68&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=66&customColorList=16" alt="Capsule Header" />
 
 ---
 
@@ -17,7 +17,7 @@
 <!-- Two-column layout without visible borders -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td valign="center" width="60%">
+    <td valign="center" width="52%">
       <div align="left">
 
 - 💻 Full Stack Developer with React, Express, Next.js, TypeScript  
@@ -28,7 +28,7 @@
 
   </div>
     </td>
-    <td valign="center" width="40%">
+    <td valign="center" width="48%">
       <img src="./assets/header.gif" alt="Abhishek Mohanty Header GIF" width="100%" />
     </td>
   </tr>
