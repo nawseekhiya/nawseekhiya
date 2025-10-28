@@ -17,7 +17,7 @@
 <!-- Two-column layout without visible borders -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td valign="center" width="52%">
+    <td valign="center" width="50%">
       <div align="left">
 
 - 💻 Full Stack Developer with React, Express, Next.js, TypeScript  
@@ -28,7 +28,7 @@
 
   </div>
     </td>
-    <td valign="center" width="48%">
+    <td valign="center" width="50%">
       <img src="./assets/header.gif" alt="Abhishek Mohanty Header GIF" width="100%" />
     </td>
   </tr>
